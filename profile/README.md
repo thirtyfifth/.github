@@ -6,8 +6,8 @@
 
 ### Socials
  - Twitch:  https://www.twitch.tv/35th
- - Twitter:   https://twitter.com/x35th
- - Instagram: https://www.instagram.com/outdistancing
- - itch.io: https://35th.itch.io
+ - Twitter:  https://twitter.com/x35th
+ - Instagram:  https://www.instagr.am/outdistancing
+ - itch.io:  https://35th.itch.io
  
  
