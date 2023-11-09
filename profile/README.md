@@ -10,7 +10,6 @@
  
  ### Platforms
 - itch.io:  https://35th.itch.io
-- IGDB:  https://www.igdb.com/companies/thirty-fifth
 
 ### Website
 - https://35thh.github.io
