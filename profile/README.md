@@ -8,8 +8,6 @@
  - Twitter:  https://twitter.com/x35th
  - Instagram:  https://www.instagr.am/outdistancing
  
- ### Platforms
-- itch.io:  https://35th.itch.io
 
 ### Website
 - https://35thh.github.io
